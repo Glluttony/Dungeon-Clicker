@@ -1,0 +1,111 @@
+#topbar {
+    width: auto;
+    height: 10;              
+}
+
+#gamefield {
+
+}
+
+#bottombar {
+    height: 10px;
+}
+
+
+.hpBar {
+    width: 90%;
+    height: 15px;
+    position: absolute;
+    left: 5%;
+    top: 25px;
+    background-color: red;
+}
+
+
+#counterPane {
+    width: 100px;
+    height: 100px;
+    background-color: lightgrey;
+}
+
+.charcterField {
+    background-image: url(resources/images/severus_snape.jpg);
+    background-size: 200px 300px;
+    width: 200;
+    height: 300;
+    position: absolute;
+    left: 150;
+    top: 100;
+}
+
+#enemeyField {
+    background-image: url(resources/images/filename-europe-trip.jpg);
+    background-size: 300 200;
+    width: 300;
+    height: 200;
+    position: absolute;
+    left: 600;
+    top: 190;
+}
+
+#character-1 {
+    background-image: url(resources/images/severus_snape.jpg);
+    top: 50px;
+    left: 300px;
+}
+
+.characterPortrait {
+    background-size: 200 300;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+}
+
+#characters {
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    background-color: lightblue;
+}
+
+#character-2 {
+    background-image: url(resources/images/hulk.jpg);
+    left: 155px;
+}
+
+#character-3 {
+    background-image: url(resources/images/hulk.jpg);
+    left: 90px;
+    top: 100
+}
+
+#character-4 {
+    background-image: url(resources/images/severus_snape.jpg);
+    top: 50px;
+}
+
+#enemies {
+    background-image: url(resources/images/filename-europe-trip.jpg);
+    background-size: 300px 200px;
+    position:absolute;
+    height: 200px;
+    width: 300px;
+    left: 800;
+    top: 250;
+}
+
+#friendlyHPbar {
+    width: 400px;
+    height: 15px;
+    position: absolute;
+    top: 525px;
+    left: 150px;
+}
+
+#enememyPortrait {
+    background-size: 300px 200px;
+    width: inherit;
+    height: inherit;
+}
